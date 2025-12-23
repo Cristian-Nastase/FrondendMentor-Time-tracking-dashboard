@@ -13,8 +13,8 @@ The website was done using only:
 
 ## Link to Website (hosted with GitHub Pages)
 
-- [Frontend Mentor Solution URL](https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh)
-- [Live Site URL - GitHub Pages](https://cristian-nastase.github.io/FrondendMentor-Password-generator-app/)
+- [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-html-vanilla-css-and-js-DQqC0IUnVz)
+- [Live Site URL - GitHub Pages](https://cristian-nastase.github.io/FrondendMentor-Time-tracking-dashboard/)
 
 
 ## Author
