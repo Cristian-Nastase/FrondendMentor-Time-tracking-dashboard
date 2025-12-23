@@ -1,0 +1,39 @@
+:root
+{
+    /* Colors */
+    --purple-600: hsl(246, 80%, 60%);
+
+    --orange-300: hsl(15, 100%, 70%);
+    --blue-300: hsl(195, 74%, 62%);
+    --pink-400: hsl(348, 100%, 68%);
+    --green-400: hsl(145, 58%, 55%);
+    --purple-700: hsl(264, 64%, 52%);
+    --yellow-300: hsl(43, 84%, 65%);
+
+    --navy-950: hsl(226, 43%, 10%);
+    --navy-900: hsl(235, 46%, 20%);
+    --purple-500: hsl(235, 45%, 61%);
+    --navy-200: hsl(236, 100%, 87%);
+
+    /* Fonts */
+
+    --paragraph-size: 1.125rem;
+    --bold-size: 1.4rem;
+    --header-size: 1.5rem;
+    --time-size: 2rem;
+
+    /* Spacing */
+    
+    --spacing-100: 0.5rem;
+    --spacing-200: 1rem;
+    --spacing-300: 1.5rem;
+    --spacing-400: 2rem;
+    --spacing-700: 3.5rem;
+    
+    --spacing-1000: 5rem;
+    --spacing-1300: 6.5rem;
+    --spacing-1600: 8rem;
+    --spacing-2000: 10rem;
+    --spacing-2200: 11rem;
+    --spacing-2300: 11.5rem;
+}
